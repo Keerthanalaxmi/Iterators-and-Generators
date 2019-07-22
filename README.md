@@ -7,4 +7,4 @@ For example, List in python is an iterable which can be iterated over using for 
 
 Program:
 
-   An iterator class reverse_iter, that takes a list and iterates it from the reverse direction.
+      An iterator class reverse_iter, that takes a list and iterates it from the reverse direction.
